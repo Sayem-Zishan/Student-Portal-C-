@@ -1,0 +1,47 @@
+c:\users\5000 series\documents\visual studio 2017\Projects\PROJECT123\PROJECT123\bin\Debug\PROJECT123.exe.config
+c:\users\5000 series\documents\visual studio 2017\Projects\PROJECT123\PROJECT123\bin\Debug\PROJECT123.exe
+c:\users\5000 series\documents\visual studio 2017\Projects\PROJECT123\PROJECT123\bin\Debug\PROJECT123.pdb
+c:\users\5000 series\documents\visual studio 2017\Projects\PROJECT123\PROJECT123\obj\Debug\PROJECT123.csprojResolveAssemblyReference.cache
+c:\users\5000 series\documents\visual studio 2017\Projects\PROJECT123\PROJECT123\obj\Debug\PROJECT123.Faculty.resources
+c:\users\5000 series\documents\visual studio 2017\Projects\PROJECT123\PROJECT123\obj\Debug\PROJECT123.FacultyInterface.resources
+c:\users\5000 series\documents\visual studio 2017\Projects\PROJECT123\PROJECT123\obj\Debug\PROJECT123.Form1.resources
+c:\users\5000 series\documents\visual studio 2017\Projects\PROJECT123\PROJECT123\obj\Debug\PROJECT123.Properties.Resources.resources
+c:\users\5000 series\documents\visual studio 2017\Projects\PROJECT123\PROJECT123\obj\Debug\PROJECT123.csproj.GenerateResource.Cache
+c:\users\5000 series\documents\visual studio 2017\Projects\PROJECT123\PROJECT123\obj\Debug\PROJECT123.exe
+c:\users\5000 series\documents\visual studio 2017\Projects\PROJECT123\PROJECT123\obj\Debug\PROJECT123.pdb
+c:\users\5000 series\documents\visual studio 2017\Projects\PROJECT123\PROJECT123\obj\Debug\PROJECT123.FacultyProfile.resources
+c:\users\5000 series\documents\visual studio 2017\Projects\PROJECT123\PROJECT123\obj\Debug\PROJECT123.UploadNotice.resources
+c:\users\5000 series\documents\visual studio 2017\Projects\PROJECT123\PROJECT123\obj\Debug\PROJECT123.ChangePassword.resources
+c:\users\5000 series\documents\visual studio 2017\Projects\PROJECT123\PROJECT123\obj\Debug\PROJECT123.AddStudent.resources
+C:\Users\5000 Series\Documents\Visual Studio 2017\Projects\PROJECT123\PROJECT123\obj\Debug\PROJECT123.StudentList.resources
+C:\Users\5000 Series\Documents\Visual Studio 2017\Projects\PROJECT123\PROJECT123\obj\Debug\PROJECT123.StudentInterface2.resources
+C:\Users\5000 Series\documents\visual studio 2017\Projects\PROJECT123\PROJECT123\obj\Debug\PROJECT123.StudentInterface3.resources
+C:\Users\5000 Series\documents\visual studio 2017\Projects\PROJECT123\PROJECT123\obj\Debug\PROJECT123.MyProfile.resources
+C:\Users\5000 Series\documents\visual studio 2017\Projects\PROJECT123\PROJECT123\obj\Debug\PROJECT123.RemovStudent.resources
+C:\Users\5000 Series\documents\visual studio 2017\Projects\PROJECT123\PROJECT123\obj\Debug\PROJECT123.StuChangePass.resources
+C:\Users\5000 Series\documents\visual studio 2017\Projects\PROJECT123\PROJECT123\obj\Debug\PROJECT123.FacProfile.resources
+C:\Users\5000 Series\documents\visual studio 2017\Projects\PROJECT123\PROJECT123\obj\Debug\PROJECT123.ConfirmInterface.resources
+C:\Users\5000 Series\Desktop\C# project\PROJECT123\bin\Debug\PROJECT123.exe.config
+C:\Users\5000 Series\Desktop\C# project\PROJECT123\bin\Debug\PROJECT123.exe
+C:\Users\5000 Series\Desktop\C# project\PROJECT123\bin\Debug\PROJECT123.pdb
+C:\Users\5000 Series\Desktop\C# project\PROJECT123\obj\Debug\PROJECT123.csprojResolveAssemblyReference.cache
+C:\Users\5000 Series\Desktop\C# project\PROJECT123\obj\Debug\PROJECT123.AddStudent.resources
+C:\Users\5000 Series\Desktop\C# project\PROJECT123\obj\Debug\PROJECT123.ChangePassword.resources
+C:\Users\5000 Series\Desktop\C# project\PROJECT123\obj\Debug\PROJECT123.ConfirmInterface.resources
+C:\Users\5000 Series\Desktop\C# project\PROJECT123\obj\Debug\PROJECT123.UploadNotice.resources
+C:\Users\5000 Series\Desktop\C# project\PROJECT123\obj\Debug\PROJECT123.FacProfile.resources
+C:\Users\5000 Series\Desktop\C# project\PROJECT123\obj\Debug\PROJECT123.Faculty.resources
+C:\Users\5000 Series\Desktop\C# project\PROJECT123\obj\Debug\PROJECT123.FacultyInterface.resources
+C:\Users\5000 Series\Desktop\C# project\PROJECT123\obj\Debug\PROJECT123.FacultyProfile.resources
+C:\Users\5000 Series\Desktop\C# project\PROJECT123\obj\Debug\PROJECT123.Form1.resources
+C:\Users\5000 Series\Desktop\C# project\PROJECT123\obj\Debug\PROJECT123.MyProfile.resources
+C:\Users\5000 Series\Desktop\C# project\PROJECT123\obj\Debug\PROJECT123.Properties.Resources.resources
+C:\Users\5000 Series\Desktop\C# project\PROJECT123\obj\Debug\PROJECT123.RemovStudent.resources
+C:\Users\5000 Series\Desktop\C# project\PROJECT123\obj\Debug\PROJECT123.StuChangePass.resources
+C:\Users\5000 Series\Desktop\C# project\PROJECT123\obj\Debug\PROJECT123.StudentInterface3.resources
+C:\Users\5000 Series\Desktop\C# project\PROJECT123\obj\Debug\PROJECT123.StudentList.resources
+C:\Users\5000 Series\Desktop\C# project\PROJECT123\obj\Debug\PROJECT123.csproj.GenerateResource.Cache
+C:\Users\5000 Series\Desktop\C# project\PROJECT123\obj\Debug\PROJECT123.exe
+C:\Users\5000 Series\Desktop\C# project\PROJECT123\obj\Debug\PROJECT123.pdb
+C:\Users\5000 Series\Desktop\C# project\PROJECT123\obj\Debug\PROJECT123.Notices.resources
+C:\Users\5000 Series\Desktop\C# project\PROJECT123\obj\Debug\PROJECT123.DropedStudent.resources

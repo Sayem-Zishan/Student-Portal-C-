@@ -1,0 +1,1 @@
+﻿Select Name,Phone,Address,UserName,Password,CGPA from StudentReg
